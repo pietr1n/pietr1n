@@ -1,7 +1,7 @@
 <h1>Olá, Bem vindo ao meu perfil 😃</h1>
 
  
-- 🔭 Atualmente trabalho com frontend
+- 🔭 Atualmente trabalho com front-end
 - 🌱 Estou estudando JavaScript
 - 💬 Pergunte-me algo pelo instagram: <a href="https://www.instagram.com/pietroo_019/">Clique aqui! :)</a>
 - 📫 Para um contato mais profissional me mande um email: pjuanfreire@gmail.com
