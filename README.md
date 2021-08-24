@@ -20,6 +20,9 @@
 </div>
 <br>
 <div> 
+  <a href="https://www.linkedin.com/in/pietro-rodrigues-805212197/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pietro-rodrigues-805212197/">
+    </a>
  <a href="mailto:pjuanfreire@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pjuanfreire@gmail.com">
     </a>
