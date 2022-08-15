@@ -27,10 +27,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pjuanfreire@gmail.com">
     </a>
   <a href="https://instagram.com/pietroo_019" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/pietrojf_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/pietr1n/pietr1n/blob/output/github-contribution-grid-snake.svg)
- 
+ 	<a href="https://www.twitch.tv/pietrojf_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
 
 <p align="center"> 
